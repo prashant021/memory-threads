@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+deepface
+faiss-cpu
+ffmpeg-python
+Pillow
+tf-keras
+tf-keras-vis
+tf-keras-vis[matplotlib]
+tf-keras[tf]
+# We need tensorflow for deepface/mtcnn
+tensorflow-cpu==2.15.0
+pydantic
+pydantic-settings
+httpx
+numpy
+opencv-python-headless
